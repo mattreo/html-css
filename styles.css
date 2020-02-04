@@ -1,0 +1,45 @@
+.first {
+  text-align: center;
+  font-size: 40px;
+}
+
+.second {
+  font-size: 15px;
+  text-align: center;
+
+}
+
+.about {
+  width: 200px;
+  height: auto;
+}
+
+.ciao {
+  border-color: red;
+  border: solid 0px;
+  width: 1000px;
+  background-color: #fdf5e6;
+  margin: 100px;
+  margin-left:auto;
+   margin-right:auto;
+   width:800px;
+
+  
+}
+.centro{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.fine {
+  max-width: 500px; 
+  margin: 50px ;
+  width: auto;
+  height: auto;
+  margin:20px;
+  float:left;
+  
+  
+}
+
